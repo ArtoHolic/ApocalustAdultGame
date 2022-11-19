@@ -1,105 +1,104 @@
 {
-"ForceApps":{
-"data":[
-  {
-          "icon": "https://pics.freeicons.io/uploads/icons/png/7117553871579156629-512.png",
-          "name": "App1",
-          "openLink": "https://play.google.com/store/apps/details?id=com.emicalculator.companyreport.creditscore",
-          "type": "app"
+  "ForceApps": {
+    "data": [
+      {
+        "icon": "https://pics.freeicons.io/uploads/icons/png/7117553871579156629-512.png",
+        "name": "App1",
+        "openLink": "https://play.google.com/store/apps/details?id=com.emicalculator.companyreport.creditscore",
+        "type": "app"
+      },
+      {
+        "icon": "https://raw.githubusercontent.com/ArtoHolic/custom/main/mgl_gitf%20(1).gif",
+        "name": "App2",
+        "openLink": "https://play407.atmequiz.com/start",
+        "type": "app"
+      },
+      {
+        "icon": "https://raw.githubusercontent.com/ArtoHolic/custom/main/mgl_gitf%20(1).gif",
+        "name": "App3",
+        "openLink": "https://play407.atmequiz.com/start",
+        "type": "app"
+      },
+      {
+        "icon": "https://raw.githubusercontent.com/ArtoHolic/custom/main/mgl_gitf%20(1).gif",
+        "name": "App4",
+        "openLink": "https://play407.atmequiz.com/start",
+        "type": "chrome"
+      },
+      {
+        "icon": "https://raw.githubusercontent.com/ArtoHolic/custom/main/mgl_gitf%20(1).gif",
+        "name": "App5",
+        "openLink": "https://play407.atmequiz.com/start",
+        "type": "chrome"
+      }
+    ]
   },
-  {
-          "icon": "https://raw.githubusercontent.com/ArtoHolic/custom/main/mgl_gitf%20(1).gif",
-          "name": "App2",
-          "openLink": "https://play407.atmequiz.com/start",
-          "type": "app"
-        },
-         {
-          "icon": "https://raw.githubusercontent.com/ArtoHolic/custom/main/mgl_gitf%20(1).gif",
-          "name": "App3",
-          "openLink": "https://play407.atmequiz.com/start",
-          "type": "app"
+  "CustomAd": {
+    "data": {
+      "failedInterstitial": [
+        {
+          "title": "Play Car Racing Game & Earn Upto 50,000 Coins",
+          "callToAction": "Play Now",
+          "subtitle": "No install required! Play Now",
+          "banners": "https://raw.githubusercontent.com/ArtoHolic/ateme/main/4.png",
+          "openLink": "http://595.set.qureka.com/",
+          "logo": "https://raw.githubusercontent.com/ArtoHolic/ateme/main/sq_3.png",
+          "description": "Play Games & Earn Upto 1,00,000 Coins Daily"
         },
         {
-          "icon": "https://raw.githubusercontent.com/ArtoHolic/custom/main/mgl_gitf%20(1).gif",
-          "name": "App4",
-          "openLink": "https://play407.atmequiz.com/start",
-          "type": "chrome"
-        },
-      {
-          "icon": "https://raw.githubusercontent.com/ArtoHolic/custom/main/mgl_gitf%20(1).gif",
-          "name": "App5",
-          "openLink": "https://play407.atmequiz.com/start",
-          "type": "chrome"
+          "title": "Predictions With Twist",
+          "callToAction": "Play Now",
+          "subtitle": "Predict Results & Win Coins",
+          "banners": "https://raw.githubusercontent.com/ArtoHolic/ateme/main/2.png",
+          "openLink": "http://595.set.qureka.com/",
+          "logo": "https://raw.githubusercontent.com/ArtoHolic/ateme/main/sq_4.png",
+          "description": "Who will win the cricket match?\nGuess Now & Win Coins"
         }
-]
-},
-"CustomAd": {
-      "data": {
-        "failedInterstitial": [
-          {
-            "title": "Play Car Racing Game & Earn Upto 50,000 Coins",
-            "callToAction": "Play Now",
-            "subtitle": "No install required! Play Now",
-            "banners": "https://raw.githubusercontent.com/ArtoHolic/ateme/main/4.png",
-            "openLink": "http://595.set.qureka.com/",
-            "logo": "https://raw.githubusercontent.com/ArtoHolic/ateme/main/sq_3.png",
-            "description": "Play Games & Earn Upto 1,00,000 Coins Daily"
-          },
-          {
-            "title": "Predictions With Twist",
-            "callToAction": "Play Now",
-            "subtitle": "Predict Results & Win Coins",
-            "banners": "https://raw.githubusercontent.com/ArtoHolic/ateme/main/2.png",
-            "openLink": "http://595.set.qureka.com/",
-            "logo": "https://raw.githubusercontent.com/ArtoHolic/ateme/main/sq_4.png",
-            "description": "Who will win the cricket match?\nGuess Now & Win Coins"
-          }
-        ],
-        "failedBigNative": [
-          {
-            "title": "Play Quiz Here!!!",
-            "callToAction": "Play Now",
-            "subtitle": "Play Quiz and Get your Lucky Gift",
-            "banners": "https://raw.githubusercontent.com/ArtoHolic/ateme/main/1.png",
-            "openLink": "http://595.set.qureka.com/",
-            "logo": "https://raw.githubusercontent.com/ArtoHolic/ateme/main/sq_5.png",
-            "description": "Who will win t he cricket match?\nGuess Now & Win Coins"
-          },
-          {
-            "title": "Awesome fun games are running for you",
-            "callToAction": "Play Now",
-            "subtitle": "Play Games and Win Today",
-            "banners": "https://raw.githubusercontent.com/ArtoHolic/ateme/main/5.png",
-            "openLink": "http://595.set.qureka.com/",
-            "logo": "https://raw.githubusercontent.com/ArtoHolic/ateme/main/sq_1.png",
-            "description": "🏆 Khub Khelo, Khub Jeeto For Sale Day  🏆"
-          }
-        ],
-        "failedSmallNative": [
-          {
-            "title": "खेलें और रोज़ कॉइन्स जीतें ",
-            "callToAction": "Play",
-            "subtitle": "इंस्टॉल करने की आवश्यकता नहीं है! अभी खेलें",
-            "openLink": "http://595.set.qureka.com/",
-            "logo": "https://raw.githubusercontent.com/ArtoHolic/ateme/main/sq_2.png",
-            "description": "खेलें और रोज़ 1,00,000 कॉइन्स तक कमाएं"
-          },
-          {
-            "title": "Play & improve your hand & eye coordination.",
-            "callToAction": "Play",
-            "subtitle": "Choose the game quiz you like and play as many times as you want",
-            "openLink": "http://595.set.qureka.com/",
-            "logo": "https://raw.githubusercontent.com/ArtoHolic/ateme/main/sq_3.png",
-            "description": "Log in daily and get free tickets! Next contest draw is coming soon! 🎁"
-          }
-        ],
-        "failedBanner": [
-          {
-            "banners": "https://raw.githubusercontent.com/ArtoHolic/banners/main/qureka%20(12).jpg",
-            "openLink": "http://595.set.qureka.com/"
-          }
-        ]
-      }
+      ],
+      "failedBigNative": [
+        {
+          "title": "Play Quiz Here!!!",
+          "callToAction": "Play Now",
+          "subtitle": "Play Quiz and Get your Lucky Gift",
+          "banners": "https://raw.githubusercontent.com/ArtoHolic/ateme/main/1.png",
+          "openLink": "http://595.set.qureka.com/",
+          "logo": "https://raw.githubusercontent.com/ArtoHolic/ateme/main/sq_5.png",
+          "description": "Who will win t he cricket match?\nGuess Now & Win Coins"
+        },
+        {
+          "title": "Awesome fun games are running for you",
+          "callToAction": "Play Now",
+          "subtitle": "Play Games and Win Today",
+          "banners": "https://raw.githubusercontent.com/ArtoHolic/ateme/main/5.png",
+          "openLink": "http://595.set.qureka.com/",
+          "logo": "https://raw.githubusercontent.com/ArtoHolic/ateme/main/sq_1.png",
+          "description": "🏆 Khub Khelo, Khub Jeeto For Sale Day  🏆"
+        }
+      ],
+      "failedSmallNative": [
+        {
+          "title": "खेलें और रोज़ कॉइन्स जीतें ",
+          "callToAction": "Play",
+          "subtitle": "इंस्टॉल करने की आवश्यकता नहीं है! अभी खेलें",
+          "openLink": "http://595.set.qureka.com/",
+          "logo": "https://raw.githubusercontent.com/ArtoHolic/ateme/main/sq_2.png",
+          "description": "खेलें और रोज़ 1,00,000 कॉइन्स तक कमाएं"
+        },
+        {
+          "title": "Play & improve your hand & eye coordination.",
+          "callToAction": "Play",
+          "subtitle": "Choose the game quiz you like and play as many times as you want",
+          "openLink": "http://595.set.qureka.com/",
+          "logo": "https://raw.githubusercontent.com/ArtoHolic/ateme/main/sq_3.png",
+          "description": "Log in daily and get free tickets! Next contest draw is coming soon! 🎁"
+        }
+      ],
+      "failedBanner": [
+        {
+          "banners": "https://raw.githubusercontent.com/ArtoHolic/banners/main/qureka%20(12).jpg",
+          "openLink": "http://595.set.qureka.com/"
+        }
+      ]
     }
   }
-  }
+}
