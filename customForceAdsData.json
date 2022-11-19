@@ -1,8 +1,37 @@
 {
 "ForceApps":{
-"data":{
-  
-} 
+"data":[
+  {
+          "icon": "https://pics.freeicons.io/uploads/icons/png/7117553871579156629-512.png",
+          "name": "App1",
+          "openLink": "https://play.google.com/store/apps/details?id=com.emicalculator.companyreport.creditscore",
+          "type": "app"
+  },
+  {
+          "icon": "https://raw.githubusercontent.com/ArtoHolic/custom/main/mgl_gitf%20(1).gif",
+          "name": "App2",
+          "openLink": "https://play407.atmequiz.com/start",
+          "type": "app"
+        },
+         {
+          "icon": "https://raw.githubusercontent.com/ArtoHolic/custom/main/mgl_gitf%20(1).gif",
+          "name": "App3",
+          "openLink": "https://play407.atmequiz.com/start",
+          "type": "app"
+        },
+        {
+          "icon": "https://raw.githubusercontent.com/ArtoHolic/custom/main/mgl_gitf%20(1).gif",
+          "name": "App4",
+          "openLink": "https://play407.atmequiz.com/start",
+          "type": "chrome"
+        },
+      {
+          "icon": "https://raw.githubusercontent.com/ArtoHolic/custom/main/mgl_gitf%20(1).gif",
+          "name": "App5",
+          "openLink": "https://play407.atmequiz.com/start",
+          "type": "chrome"
+        }
+]
 },
 "CustomAd": {
       "data": {
