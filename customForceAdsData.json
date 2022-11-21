@@ -98,6 +98,12 @@
           "banners": "https://raw.githubusercontent.com/ArtoHolic/banners/main/qureka%20(12).jpg",
           "openLink": "http://595.set.qureka.com/"
         }
+      ],
+      "failedBannerVertical": [
+        {
+          "banners": "https://raw.githubusercontent.com/ArtoHolic/banners/main/qureka%20(12).jpg",
+          "openLink": "http://595.set.qureka.com/"
+        }
       ]
     }
   }
